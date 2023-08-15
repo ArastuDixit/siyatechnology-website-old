@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="88" height="88" viewBox="0 0 88 88">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.921" y1="-0.111" x2="0" y2="1.084" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#08c80e"/>
+      <stop offset="1" stop-color="#a6d864"/>
+    </linearGradient>
+    <filter id="Rectangle_618" x="0" y="0" width="88" height="88" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_48021" data-name="Group 48021" transform="translate(-228 -932)">
+    <g transform="matrix(1, 0, 0, 1, 228, 932)" filter="url(#Rectangle_618)">
+      <rect id="Rectangle_618-2" data-name="Rectangle 618" width="70" height="70" rx="20" transform="translate(9 6)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="android_1_" data-name="android (1)" transform="translate(214.784 955)">
+      <path id="Path_167661" data-name="Path 167661" d="M140.841,194.656a2.372,2.372,0,0,0,2.316-2.316v-5.409H144.7a1.461,1.461,0,0,0,1.546-1.546V169.937H127.708v15.448a1.461,1.461,0,0,0,1.546,1.546H130.8v5.409a2.316,2.316,0,1,0,4.632,0v-5.409h3.093v5.409A2.372,2.372,0,0,0,140.841,194.656Z" transform="translate(-79.314 -157.656)" fill="#fff"/>
+      <path id="Path_167662" data-name="Path 167662" d="M408.008,185.385a2.372,2.372,0,0,0,2.316-2.316V172.252a2.316,2.316,0,0,0-4.632,0v10.817A2.372,2.372,0,0,0,408.008,185.385Z" transform="translate(-337.209 -157.656)" fill="#fff"/>
+      <path id="Path_167663" data-name="Path 167663" d="M44.532,185.385a2.372,2.372,0,0,0,2.316-2.316V172.252a2.316,2.316,0,0,0-4.632,0v10.817A2.372,2.372,0,0,0,44.532,185.385Z" transform="translate(0 -157.656)" fill="#fff"/>
+      <path id="Path_167664" data-name="Path 167664" d="M144.4.234a.74.74,0,0,0-1.079,0L141.242,2.3l-.1.1A9.159,9.159,0,0,0,137,1.47h-.045a9.158,9.158,0,0,0-4.144.926l-.1-.1L130.643.234a.74.74,0,0,0-1.079,0,.742.742,0,0,0,0,1.078l2.006,2.007a8.359,8.359,0,0,0-1.742,1.564,9.08,9.08,0,0,0-2.106,5.369c0,.021,0,.042,0,.063q-.01.208-.01.419h18.542q0-.21-.01-.419c0-.021,0-.042,0-.063a9.077,9.077,0,0,0-2.106-5.369,8.353,8.353,0,0,0-1.742-1.564L144.4,1.311A.742.742,0,0,0,144.4.234Zm-11.28,7.8a1.158,1.158,0,1,1,1.158-1.158A1.159,1.159,0,0,1,133.115,8.033Zm7.73,0A1.158,1.158,0,1,1,142,6.875,1.158,1.158,0,0,1,140.845,8.033Z" transform="translate(-79.315 0)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

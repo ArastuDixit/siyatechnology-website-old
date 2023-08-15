@@ -1,0 +1,18 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 198 198" width="64" height="64">
+	<title>react-svg</title>
+	<defs>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="174.78" y1="-13.98" x2="9" y2="201.12">
+			<stop offset="0" stop-color="#09a3cc"  />
+			<stop offset="1" stop-color="#61dafb"  />
+		</linearGradient>
+		<image width="122" height="130" id="img1" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjEuODk0IiBoZWlnaHQ9IjEyOS43NjEiIHZpZXdCb3g9IjAgMCAxMjEuODk0IDEyOS43NjEiPg0KICA8ZyBpZD0icmVhY3QiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuNSAyLjA0OSkiPg0KICAgIDxlbGxpcHNlIGlkPSJFbGxpcHNlXzg3IiBkYXRhLW5hbWU9IkVsbGlwc2UgODciIGN4PSIxMS4wNzkiIGN5PSIxMS4wNzkiIHJ4PSIxMS4wNzkiIHJ5PSIxMS4wNzkiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDQ4LjM2OCA1MS43NTMpIiBmaWxsPSIjZmZmIi8+DQogICAgPGcgaWQ9Ikdyb3VwXzQwNyIgZGF0YS1uYW1lPSJHcm91cCA0MDciPg0KICAgICAgPGVsbGlwc2UgaWQ9IkVsbGlwc2VfODgiIGRhdGEtbmFtZT0iRWxsaXBzZSA4OCIgY3g9IjU5LjQ0NyIgY3k9IjIyLjY5OCIgcng9IjU5LjQ0NyIgcnk9IjIyLjY5OCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCA0MC4xMzQpIiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMyIvPg0KICAgICAgPGVsbGlwc2UgaWQ9IkVsbGlwc2VfODkiIGRhdGEtbmFtZT0iRWxsaXBzZSA4OSIgY3g9IjU5LjQ0NyIgY3k9IjIyLjY5OCIgcng9IjU5LjQ0NyIgcnk9IjIyLjY5OCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNDkuMzggMCkgcm90YXRlKDYwKSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjMiLz4NCiAgICAgIDxlbGxpcHNlIGlkPSJFbGxpcHNlXzkwIiBkYXRhLW5hbWU9IkVsbGlwc2UgOTAiIGN4PSI1OS40NDciIGN5PSIyMi42OTgiIHJ4PSI1OS40NDciIHJ5PSIyMi42OTgiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEwOC44MjcgMjIuNjk4KSByb3RhdGUoMTIwKSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjMiLz4NCiAgICA8L2c+DQogIDwvZz4NCjwvc3ZnPg0K"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: url(#grd1) } 
+	</style>
+	<g id="Layer">
+		<path id="Rectangle_619-2" class="shp0" d="M9 46C9 23.91 26.91 6 49 6L149 6C171.09 6 189 23.91 189 46L189 146C189 168.09 171.09 186 149 186L49 186C26.91 186 9 168.09 9 146L9 46Z" />
+		<use id="img1" href="#img1" transform="matrix(1,0,0,1,39,32)"/>
+	</g>
+</svg>

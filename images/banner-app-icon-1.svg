@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="88" height="88" viewBox="0 0 88 88">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.921" y1="-0.111" x2="0" y2="1.084" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a0bfca"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <filter id="Rectangle_615" x="0" y="0" width="88" height="88" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_48020" data-name="Group 48020" transform="translate(-130 -932)">
+    <g transform="matrix(1, 0, 0, 1, 130, 932)" filter="url(#Rectangle_615)">
+      <rect id="Rectangle_615-2" data-name="Rectangle 615" width="70" height="70" rx="20" transform="translate(9 6)" fill="url(#linear-gradient)"/>
+    </g>
+    <path id="apple" d="M16.931,3.276A8.056,8.056,0,0,1,22.842,0,8.038,8.038,0,0,1,20.9,6.017c-2.623,3.152-5.605,2.637-5.605,2.637A6.99,6.99,0,0,1,16.931,3.276ZM15.606,10.8c1.272,0,3.634-1.749,6.707-1.749a8.4,8.4,0,0,1,7.372,3.765,8.174,8.174,0,0,0-4.071,7.131,8.382,8.382,0,0,0,5.071,7.66s-3.545,9.977-8.333,9.977c-2.2,0-3.909-1.482-6.226-1.482-2.361,0-4.7,1.537-6.231,1.537-4.372,0-9.9-9.465-9.9-17.073C0,13.083,4.675,9.156,9.061,9.156c2.851,0,5.063,1.644,6.545,1.644Z" transform="translate(159 954)" fill="#7e7c7c"/>
+  </g>
+</svg>

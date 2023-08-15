@@ -1,0 +1,18 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 198 198" width="64" height="64">
+	<title>ionic-svg</title>
+	<defs>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="174.78" y1="-13.98" x2="9" y2="201.12">
+			<stop offset="0" stop-color="#002bff"  />
+			<stop offset="1" stop-color="#3880ff"  />
+		</linearGradient>
+		<image width="118" height="118" id="img1" href="data:image/svg+xml;base64,PHN2ZyBpZD0iaW9uaWMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjExNy4zMzciIGhlaWdodD0iMTE3LjMzOCIgdmlld0JveD0iMCAwIDExNy4zMzcgMTE3LjMzOCI+DQogIDxjaXJjbGUgaWQ9IkVsbGlwc2VfODYiIGRhdGEtbmFtZT0iRWxsaXBzZSA4NiIgY3g9IjIzLjk1NCIgY3k9IjIzLjk1NCIgcj0iMjMuOTU0IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgzNC43MTUgMzQuNzEzKSIgZmlsbD0iI2ZmZiIvPg0KICA8cGF0aCBpZD0iUGF0aF8xNjc2NzYiIGRhdGEtbmFtZT0iUGF0aCAxNjc2NzYiIGQ9Ik0xMDcuNjU0LDE4LjAyM2E4LjIzLDguMjMsMCwwLDAtMTMuNjI5LTYuMjE4LDU4LjcyMiw1OC43MjIsMCwxLDAsMTEuNjA5LDExLjYwOCw4LjE5Myw4LjE5MywwLDAsMCwyLjAyLTUuMzlaTTU4Ljc3LDExNS4zNjRBNTYuNyw1Ni43LDAsMSwxLDkyLjY5MywxMy4yN2E4LjIyOSw4LjIyOSwwLDAsMCwxMS40NzMsMTEuNDczLDU2LjY2OSw1Ni42NjksMCwwLDEtNDUuNCw5MC42MjFaIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMC4xMDEpIiBmaWxsPSIjZmZmIi8+DQo8L3N2Zz4NCg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: url(#grd1) } 
+	</style>
+	<g id="Layer">
+		<path id="Rectangle_621-2" class="shp0" d="M9 46C9 23.91 26.91 6 49 6L149 6C171.09 6 189 23.91 189 46L189 146C189 168.09 171.09 186 149 186L49 186C26.91 186 9 168.09 9 146L9 46Z" />
+		<use id="img1" href="#img1" transform="matrix(1,0,0,1,39,38)"/>
+	</g>
+</svg>
